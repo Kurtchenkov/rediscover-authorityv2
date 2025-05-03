@@ -1,0 +1,4 @@
+mkdir hype-bot
+cd hype-bot
+npm init -y
+npm install twitter-api-v2 dotenv
